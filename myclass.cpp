@@ -43,6 +43,7 @@ int main()
 	
 	cout<<object2.get_a()<<"\t";
 	cout<<object2.get_height()<<endl;
+	cout<<"Hello noob programist";
 	
 	cout<<object3.get_a()<<"\t";
 	cout<<object3.get_height()<<endl;
