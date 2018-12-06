@@ -35,7 +35,7 @@ int main()
 	
 	object.set_a(101);
 	object.set_height(175.5);
-	
+	cout<<"lol";
 	cout<<object.get_a()<<"\t";
 	cout<<object.get_height()<<endl;
 	
